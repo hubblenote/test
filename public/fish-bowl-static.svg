@@ -1,0 +1,13 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="900" fill="#F8FAFC"/>
+  <rect x="162" y="102" width="1116" height="696" rx="48" fill="white" stroke="#CBD5E1" stroke-width="8"/>
+  <rect x="226" y="174" width="988" height="560" rx="32" fill="#E0F2FE" stroke="#93C5FD" stroke-width="6"/>
+  <ellipse cx="720" cy="662" rx="390" ry="44" fill="#BFDBFE"/>
+  <path d="M378 362C446 304 558 320 596 376C558 432 446 448 378 390V362Z" fill="#F97316"/>
+  <circle cx="500" cy="374" r="8" fill="#0F172A"/>
+  <path d="M936 508C1012 458 1126 480 1156 548C1118 604 1000 622 936 560V508Z" fill="#2563EB"/>
+  <circle cx="1038" cy="530" r="8" fill="white"/>
+  <path d="M688 558C742 520 826 532 850 578C824 624 736 636 688 596V558Z" fill="#10B981"/>
+  <circle cx="772" cy="576" r="7" fill="#052E16"/>
+  <text x="720" y="140" text-anchor="middle" fill="#0F172A" font-size="44" font-family="Arial, sans-serif" font-weight="700">Fish Bowl Template</text>
+</svg>

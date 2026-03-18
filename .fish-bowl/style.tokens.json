@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "path": ".fish-bowl/style.md",
+    "sha256": "8867d1903a51d155646c3022b3a80d4ca998d0ab7ada0b14b528ef172e4ac1d2"
+  },
+  "translatedAt": "2026-02-22T23:30:00.000Z",
+  "translator": {
+    "kind": "fish-bowl-style-translator-v1",
+    "runId": null
+  },
+  "theme": {
+    "background": "#f8fafc",
+    "foreground": "#0f172a",
+    "panel": "#ffffff",
+    "border": "#e2e8f0",
+    "muted": "#e2e8f0",
+    "mutedForeground": "#334155",
+    "subtleForeground": "#64748b",
+    "card": "#ffffff",
+    "cardForeground": "#0f172a",
+    "accent": "#0f172a",
+    "accentForeground": "#ffffff",
+    "userBubble": "#0f172a",
+    "userBubbleForeground": "#ffffff",
+    "agentBubble": "#ffffff",
+    "agentBubbleForeground": "#0f172a",
+    "success": "#047857",
+    "successSurface": "#d1fae5",
+    "warning": "#b45309",
+    "warningSurface": "#fef3c7",
+    "danger": "#be123c",
+    "dangerSurface": "#ffe4e6"
+  }
+}
